@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f7f5f0;
+  color: #2f2f2f;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+}
+
+main {
+  max-width: 36rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.theme {
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #6b6658;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: normal;
+  margin: 0.5rem 0 1.5rem;
+}
+
+#idea {
+  font-size: 1.2rem;
+}
+
+.explanation {
+  color: #4a4a4a;
+}
+
+.action {
+  margin-top: 1.5rem;
+  padding: 1rem 1.25rem;
+  border-left: 3px solid #8fa68a;
+  background: #ffffff;
+  text-align: left;
+}
+
+.source {
+  margin-top: 2rem;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: #6b6658;
+}
