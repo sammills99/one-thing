@@ -4,23 +4,66 @@
     "title": "Let the first minute pass",
     "idea": "A strong urge often softens if you wait one minute before acting on it.",
     "explanation": "Strong reactions feel urgent because they arrive all at once. A short pause gives your thinking time to catch up, and you often choose differently.",
-    "action": "Next time you feel a sharp urge to reply or snap, wait one full minute first.",
-    "source": "Inspired by The Chimp Paradox, Professor Steve Peters"
+    "action": "Next time you feel a sharp urge to reply or snap, wait one full minute first."
   },
   {
     "theme": "Habits and action",
     "title": "Make it small enough to start",
     "idea": "A habit becomes easier to keep when the first step is almost too small to refuse.",
     "explanation": "Big goals often stall at the start. Shrinking the first step removes the friction, and momentum does the rest.",
-    "action": "Choose one habit you've been putting off and shrink it to two minutes today.",
-    "source": "Inspired by Atomic Habits, James Clear"
+    "action": "Choose one habit you've been putting off and shrink it to two minutes today."
   },
   {
     "theme": "Meaning and perspective",
     "title": "Sort what is yours to control",
     "idea": "Much of our stress comes from worrying about things we cannot change.",
     "explanation": "Separating what you can influence from what you cannot brings your energy back to the things you can act on.",
-    "action": "Write down one worry today, then mark whether it is within your control.",
-    "source": "Inspired by Meditations, Marcus Aurelius"
-  }
-]
+    "action": "Write down one worry today, then mark whether it is within your control."
+  },
+  {
+    "theme": "Habits and action",
+    "title": "Decide the night before",
+    "idea": "Choosing tomorrow's first step tonight removes a decision from a busy morning.",
+    "explanation": "Mornings are when we have the least patience and the most distractions. A plan made in advance does the thinking for you.",
+    "action": "Before bed, write down the first small thing you'll do tomorrow."
+  },
+  {
+    "theme": "Habits and action",
+    "title": "Make the good thing easy to reach",
+    "idea": "The habits you keep are often the ones that take the least effort to start.",
+    "explanation": "Put what you want to do within arm's reach, and move what you want to avoid out of sight. Your surroundings can do more of the work than willpower.",
+    "action": "Move one thing you want to use every day to the place you'll see it first."
+  },
+  {
+    "theme": "Habits and action",
+    "title": "Know what matters most",
+    "idea": "Being clear about what matters most makes everyday choices much easier.",
+    "explanation": "Picture the person you want to be in five years. Then ask whether today's choices move you a little closer to them.",
+    "action": "Write one sentence describing the person you're becoming."
+  },
+  {
+    "theme": "Habits and action",
+    "title": "Tidy one small thing",
+    "idea": "Putting your immediate surroundings in order gives you a steadier base for the rest of the day.",
+    "explanation": "A cluttered desk or a full sink quietly adds tension. Fixing one small thing gives you a sense of control and a clear start.",
+    "action": "Tidy one surface before you leave the room."
+  },
+  {
+    "theme": "Emotions and the mind",
+    "title": "Notice the story you're telling",
+    "idea": "The meaning we give an event can hurt more than the event itself.",
+    "explanation": "When something upsets you, ask what you're assuming. There is often a kinder, more accurate version of what happened.",
+    "action": "Next time you feel hurt, write down the story you're telling yourself, then one other possible explanation."
+  },
+  {
+    "theme": "Emotions and the mind",
+    "title": "Give the worry a job",
+    "idea": "A worry often calms down when it's given a clear, specific task.",
+    "explanation": "Anxiety feels bigger when it has no direction. A short, practical step gives the worry something useful to do.",
+    "action": "When a worry comes up, write down one practical step you could take, even if you don't take it yet."
+  },
+  {
+    "theme": "Meaning and perspective",
+    "title": "Find meaning in how you respond",
+    "idea": "Even in hard times, meaning can come from how you choose to respond.",
+    "explanation": "We cannot always
