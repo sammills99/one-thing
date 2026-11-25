@@ -1,3 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #f7f5f0;
+  color: #2f2f2f;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.logo {
+  padding: 1.25rem 5vw;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #6b6658;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  padding: 2rem 5vw;
+  text-align: center;
+}
+
+.theme {
+  margin: 0 0 2rem;
+  font-family: system-ui, sans-serif;
+  font-size: 1.05rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #6b6658;
+  text-align: center;
+}
+
+.quote {
+  margin: 0;
+  font-size: clamp(1.8rem, 4vw, 3.2rem);
+  line-height: 1.25;
+  text-align: center;
+}
+
+.reasoning {
+  width: 100%;
+  margin: 2.5rem 0 0;
+  font-size: clamp(1.1rem, 2vw, 1.4rem);
+  color: #4a4a4a;
+  text-align: center;
+}
+
+.action-box {
+  margin-top: 3rem;
+  padding: 1.5rem 2rem;
+  background: #ffffff;
+  border-left: 4px solid #8fa68a;
+  text-align: center;
+}
+
+.action-label {
+  margin: 0 0 0.35rem;
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #6b6658;
+}
+
+.action-box p:last-child {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
 .entry-nav {
   display: flex;
   justify-content: center;
@@ -22,4 +104,16 @@
 .entry-nav button:hover,
 .entry-nav button:focus-visible {
   background: #eef3ec;
+}
+
+.notice {
+  padding: 1.5rem 5vw;
+  border-top: 1px solid #e4e0d6;
+  font-size: 0.9rem;
+  color: #6b6658;
+  text-align: center;
+}
+
+.notice p {
+  margin: 0.25rem 0;
 }
