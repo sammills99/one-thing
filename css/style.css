@@ -1,71 +1,25 @@
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  min-height: 100vh;
+.entry-nav {
   display: flex;
-  flex-direction: column;
-  background: #f7f5f0;
-  color: #2f2f2f;
-  font-family: Georgia, "Times New Roman", serif;
-  line-height: 1.6;
-  text-align: center;
-}
-
-.logo {
-  padding: 1.25rem 5vw;
-  font-family: system-ui, sans-serif;
-  font-size: 0.9rem;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
-  color: #6b6658;
-}
-
-main {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
   justify-content: center;
-  width: 100%;
-  padding: 2rem 5vw;
-  text-align: center;
-}
-
-.theme {
-  margin: 0 0 2rem;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 2.5rem;
   font-family: system-ui, sans-serif;
-  font-size: 1.05rem;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
+  font-size: 0.95rem;
   color: #6b6658;
-  text-align: center;
 }
 
-.quote {
-  margin: 0;
-  font-size: clamp(1.8rem, 4vw, 3.2rem);
-  line-height: 1.25;
-  text-align: center;
-}
-
-.reasoning {
-  width: 100%;
-  margin: 2.5rem 0 0;
-  font-size: clamp(1.1rem, 2vw, 1.4rem);
-  color: #4a4a4a;
-  text-align: center;
-}
-
-.action-box {
-  margin-top: 3rem;
-  padding: 1.5rem 2rem;
+.entry-nav button {
+  padding: 0.6rem 1.2rem;
+  font: inherit;
   background: #ffffff;
-  border-left: 4px solid #8fa68a;
-  text-align: center;
+  color: #2f2f2f;
+  border: 1px solid #8fa68a;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
-.action-label {
-  margin: 0 0 0.35rem;
+.entry-nav button:hover,
+.entry-nav button:focus-visible {
+  background: #eef3ec;
 }
