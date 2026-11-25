@@ -8,11 +8,9 @@ async function showTodaysEntry() {
   const entry = entries[dayOfYear % entries.length];
 
   document.getElementById("theme").textContent = entry.theme;
-  document.getElementById("title").textContent = entry.title;
   document.getElementById("idea").textContent = entry.idea;
   document.getElementById("explanation").textContent = entry.explanation;
-  document.getElementById("action").textContent = "Try today: " + entry.action;
-  document.getElementById("source").textContent = entry.source;
+  document.getElementById("action").textContent = entry.action;
 }
 
 showTodaysEntry();
