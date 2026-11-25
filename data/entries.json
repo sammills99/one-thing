@@ -159,5 +159,54 @@
     "idea": "Generosity often feels richer when you expect nothing back.",
     "explanation": "Giving with strings attached can leave us feeling short-changed. Giving freely, even something small, tends to lift our own mood too.",
     "action": "Give something small today, such as your time, a sincere compliment or a few pounds, and expect nothing in return."
+  },
+  {
+    "theme": "Habits and action",
+    "title": "Close the day with a clear next step",
+    "idea": "A short closing routine makes it easier to stop work without carrying it into the evening.",
+    "explanation": "Leaving tasks half-finished in your head keeps them running in the background. Writing the next step down lets your mind rest.",
+    "action": "At the end of your working day, write down the next task and then close your laptop."
+  },
+  {
+    "theme": "Habits and action",
+    "title": "Attach it to something you already do",
+    "idea": "A new habit sticks more easily when it follows a routine you already have.",
+    "explanation": "Your existing routines are reliable reminders. Linking a small action to one of them means you don't have to remember it separately.",
+    "action": "Pick a routine you already do, like making tea, and add one small action straight after it."
+  },
+  {
+    "theme": "Emotions and the mind",
+    "title": "Take a short walk to reset",
+    "idea": "Moving your body for a few minutes can shift a restless or low mood.",
+    "explanation": "When thoughts loop, a change of scene and gentle movement can interrupt the cycle and give you some fresh perspective.",
+    "action": "Take a ten-minute walk today without your phone."
+  },
+  {
+    "theme": "Emotions and the mind",
+    "title": "Let the feeling move through",
+    "idea": "Strong feelings usually rise, peak and fade, even when they seem permanent.",
+    "explanation": "Fighting a feeling often makes it stronger. Noticing where it sits in your body lets it pass more quickly.",
+    "action": "When a difficult feeling arrives, notice where it sits in your body and watch it for one minute."
+  },
+  {
+    "theme": "Meaning and perspective",
+    "title": "Choose your company with care",
+    "idea": "The people around us shape our mood, our choices and our sense of what is normal.",
+    "explanation": "Some people leave us feeling steadier, and others leave us drained. Noticing the difference helps us spend time more wisely.",
+    "action": "Think of one person who leaves you feeling calmer, and arrange to see them this week."
+  },
+  {
+    "theme": "Meaning and perspective",
+    "title": "Let yesterday go",
+    "idea": "Replaying past mistakes rarely helps you do better tomorrow.",
+    "explanation": "Taking responsibility and learning from a mistake is useful. Repeated self-criticism usually just drains the energy you need today.",
+    "action": "Name one thing you did yesterday that you'd like to do differently, then let it go."
+  },
+  {
+    "theme": "Time and money",
+    "title": "Pause before saying yes",
+    "idea": "Saying yes too quickly can fill your time with things that matter less to you.",
+    "explanation": "A quick yes is often a habit rather than a choice. A short pause lets you check whether a request really fits your priorities.",
+    "action": "Next time someone asks you for something, wait an hour before you answer."
   }
 ]
